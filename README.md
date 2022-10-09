@@ -12,7 +12,7 @@
    
    <br>
    
-   <a href="https://github.com/StephenAlcantara/my-portfolio">
+   <a href="https://stephenalcantara.github.io/my-portfolio/">
     View deployment page
    </a>
 </div>
@@ -80,7 +80,7 @@
   
   [![HTML][HTML]][HTML-url]
   [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-  [![AOS][AOS]][Bootstrap-url]
+  [![AOS][AOS]][AOS-url]
   
   
   <br><p>(<a href="#table-of-contents">Back to top</a>)</p>
@@ -143,8 +143,8 @@
 
   <h3>You can reach me through: <h3>
   <p>
-    <a href="https://fb.com/keith alcantara" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keith alcantara" height="30" width="40" /></a>
-    <a href="https://twitter.com/keith" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keith" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/keith.alcantara.3/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keith alcantara" height="30" width="40" /></a>
+    <a href="https://twitter.com/Keith45865381" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keith" height="30" width="40" /></a>
     <a href="mailto:keithalcantara13@gmail.com" target="blank"><img width="25" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="keith" height="30" width="40"></a>
   </p><br>
 
@@ -159,11 +159,12 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[AOS]: https://img.shields.io/badge/AOS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[AOS-url]: https://michalsnik.github.io/aos/
+[HTML]: https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 
-[HTML]: https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white
-[HTML-url]: https://alvarotrigo.com/fullPage/
+[AOS]: https://img.shields.io/badge/AOS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[AOS-url]: https://michalsnik.github.io/aos/
+
