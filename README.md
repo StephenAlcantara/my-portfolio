@@ -38,7 +38,7 @@
           <a href="#who-am-i">Get to know me</a>
         </li>
         <li>
-          <a href="#what-project-have-i-done-lately">See my recent works</a>
+          <a href="#what-projects-have-i-done-lately">See my recent works</a>
         </li>
         <li>
           <a href="#contact-me">How to contact me</a>
