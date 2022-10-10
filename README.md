@@ -81,6 +81,7 @@
   [![HTML][HTML]][HTML-url]
   [![Bootstrap][Bootstrap.com]][Bootstrap-url]
   [![AOS][AOS]][AOS-url]
+  [![Formspree][Formspree]][Formspree-url]
   
   
   <br><p>(<a href="#table-of-contents">Back to top</a>)</p>
@@ -160,7 +161,7 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[HTML]: https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white
+[HTML]: https://img.shields.io/badge/HTML5-3A38CF?style=for-the-badge&logo=html5&logoColor=white
 [HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap5-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
@@ -169,3 +170,5 @@
 [AOS]: https://img.shields.io/badge/AOS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [AOS-url]: https://michalsnik.github.io/aos/
 
+[Formspree]: https://img.shields.io/badge/Formspree%20API-CC3535?style=for-the-badge&logo=scala&logoColor=white
+[Formspree-url]: https://formspree.io/
