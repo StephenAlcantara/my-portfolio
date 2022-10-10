@@ -145,6 +145,7 @@
   <p>
     <a href="https://www.facebook.com/keith.alcantara.3/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keith alcantara" height="30" width="40" /></a>
     <a href="https://twitter.com/Keith45865381" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keith" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/keith-alcantara-463243253/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keith alcantara" height="30" width="40" /></a>
     <a href="mailto:keithalcantara13@gmail.com" target="blank"><img width="25" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" alt="keith" height="30" width="40"></a>
   </p><br>
 
